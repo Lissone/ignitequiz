@@ -8,7 +8,6 @@
   <a href="#requirements">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Usage</a>
-
 </p>
 <br />
 <p align="center">
@@ -36,6 +35,8 @@ Ignite Quiz is a mobile app developed with React Native and Expo that challenges
 With this project, I challenged myself to learn more about specific interactions in mobile applications and to explore advanced animations using the Skia and Reanimated libraries from React Native. This learning experience enabled me to create a more dynamic and responsive interface, enriching the user experience and making the learning process more enjoyable and effective.
 
 ## Demonstration
+
+https://github.com/user-attachments/assets/eaa12766-5220-47e3-abb7-e862f95c8c88
 
 ## Requirements
 
